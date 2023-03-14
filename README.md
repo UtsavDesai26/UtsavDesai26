@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [Medium](https://utsavdesai26.medium.com/)
 
-- 📫 How to reach me through [Mail](desaiutsav26@gmail.com)
+- 📫 How to reach me through [Mail](mailto:desaiutsav26@gmail.com)
 
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/utsavdesai26/)
 
